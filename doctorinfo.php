@@ -10,7 +10,7 @@
 
 
                                   <div class="col-md-3">
-                                      <img src="img/doctor1.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor5.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div> <br>
 
                                   <div class="col-md-3" > 
@@ -246,7 +246,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                   </div>
 
                                  <div class="col-md-3">
-                                      <img src="img/doctor5.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor2.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
                                   <div class="col-md-3">

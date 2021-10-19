@@ -12,8 +12,8 @@
 		<div class="main_content">
 			<div class="col-md-6" style="border-right: 2px solid black;">
 				<article>
-					<h2>Md. Azharul Islam <h2><h4>Studied B.Sc in Electronics and Communication Engineering</h4>
-							<h5>Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200.</h5>
+					<h2> peter Mbugua<h4>Professional Web developer</h4>
+							<h5>studying At Murang'a University of Technology</h5>
 						<p> https://github.com/silencer929<br>
 							https://linkedin.com/in/silencer <br>
 							https://facebook/peterhannah <br>

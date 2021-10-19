@@ -9,7 +9,7 @@
 		<h3 class="text-center" style="background-color:#272327;color: #fff;">About Us</h3>
 		<div class="col-md-12">
 			<div class="col-md-6">
-				<img src="img/aboutimag33.jpg" alt="" class="img-responsive">
+				<img src="img/consultation2.jpg" alt="" class="img-responsive">
 			</div>
 
 			<div class="col-md-6">
@@ -33,7 +33,7 @@
 				</article>
 			</div>
 			<div class="col-md-6">
-				<img src="img/aboutimag11.jpg" alt="" class="img-responsive"><br>
+				<img src="img/online-doctor.jpg" alt="" class="img-responsive"><br>
 			</div>
 		</div>
           

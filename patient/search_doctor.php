@@ -20,10 +20,12 @@
 					<label>
 						Search By:<select name="address" type="text" style="width: 110px;margin-right: 175px;" />
 												<option>-Select-</option>
-												<option>Dhaka</option>
-												<option>Dinajpur</option>
-												<option>Rangpur</option>
-												<option>Rajsahi</option>
+												<option>westlands</option>
+												<option>Kangemi</option>
+												<option>nairobi</option>
+												<option>umoja one</option>
+												<option>Roysambu</option>
+												<option>muthaiga</option>
 												
 											</select>
 

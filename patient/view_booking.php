@@ -43,7 +43,7 @@
 								echo "<td>".$row['dates']."</td>";
 								echo "<td>".$row['tyme']."</td>";
 						?>
-								<td><a href="cancelBooking.php?dates=<?php echo $row['dates'] ?>">Cancel</a></td>;
+								<td><a href="cancel_booking.php?id=<?php echo $row['booking_id'] ?>">Cancel</a></td>;
 						<?php
 								echo "</tr>";
 						}
