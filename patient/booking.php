@@ -79,14 +79,16 @@
 						 Time: <select name="tyme" required>
 										<option value="">-select-</option>
 										<option value="11.00am">11.00am</option>
+										<option value="8.00am">8.00am</option>
 										<option value="03.00pm">03.00pm</option>
 									</select>
 					</label><br><br>
 					<label>
 						 Payment: <select name="payment" required>
 										<option value="">-select-</option>
-										<option value="Rocket">Rocket</option>
-										<option value="bKask">bKask</option>
+										<option value="Rocket">Mpesa</option>
+										<option value="bKask">cash</option>
+										<option value="bKask">credit Card</option>
 									</select>
 					</label><br><br>
 					<label>

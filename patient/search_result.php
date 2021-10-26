@@ -13,12 +13,18 @@
 
 					<?php 
 					include('../config.php');
-					
-
-					$sql = " SELECT * FROM doctor WHERE address = '" . $_POST["address"]."' AND expertise = '" . $_POST["expertise"]."' ";
+					$expertise=$_POST['expertise'];
+					$address=$_POST['address'];
+					if($_POST["expertise"]=="-Select-" && $_POST['address']!=""){
+						$sql="SELECT * FROM doctor WHERE address = ". "'".$address."'";
+					}
+					else if($_POST["address"]=="-Select-" && $_POST['expertise']!=""){
+						$sql="SELECT * FROM doctor WHERE expertise ="."'".$expertise."'";
+					}else{
+					$sql = "SELECT * FROM doctor WHERE address = '" . $_POST["address"]."' AND expertise = '" . $_POST["expertise"]."' ";
+					}
 					$result = mysqli_query($conn,$sql);
 					$count = mysqli_num_rows($result);
-
 					if($count>=1){
 						echo "<table border='1' align='center' cellpadding='32'>
 							<tr>
